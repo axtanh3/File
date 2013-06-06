@@ -1,5 +1,5 @@
 /*
- * Bai 1
+ * Bai 1.
  */
  
 #include <stdio.h>
