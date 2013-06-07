@@ -6,7 +6,7 @@ void f(char *menu[]);
 void f1(char *menu[], int curPos, int x, int y);
 int main(void)
 {
-  int curPos;
+  	int curPos;
 	char c, c1;
 	char *menu[] =
 	{
@@ -63,6 +63,7 @@ int main(void)
 	}
 	while (1);
 	Stop:
+	getch();
 	return 0;
 }
 
